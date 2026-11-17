@@ -1,1 +1,0 @@
-# kubernetes-microservices-project
